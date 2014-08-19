@@ -1,1 +1,1 @@
-console.log(confirm("Shall we, then?"));
+console.log(prompt("Tell us everything you know.", "..."));
