@@ -1,5 +1,1 @@
-function yell(message) {
-  alert(message + "!!");
-}
-
-yell("Yow");
+alert("Hello", "Good Evening", "How do you do?", "Goodbye");
